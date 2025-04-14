@@ -1,2 +1,3 @@
-
-console.log("Página carregada com sucesso!");
+function redirecionar(){
+    window.location.href = "pagvendas.html"
+}
